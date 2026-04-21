@@ -2,8 +2,9 @@
 ### Using 8051 Microcontroller
 
 > Mini-Project Report — Microprocessors and Microcontrollers (Semester IV)  
-> **Neel Parikh** (Roll No. 16014024052) · **Vaibhav Rathod** (Roll No. 16014024058)  
-> Department of Electronics and Computer Engineering (EXCP) · Class A-3  
+>**Vaibhav Rathod**
+> **Neel Parikh** 
+> Department of Electronics and Computer Engineering (EXCP) 
 > K. J. Somaiya School of Engineering
 
 ---
@@ -105,13 +106,8 @@ void gate_open() {
 
 ## 🖥️ Simulation Screenshots
 
-### Idle State — 8 Slots Available
-![Simulation - Idle State](simulation_idle.png)
-> LCD shows `CAR PARKING 08 / LEFT!` — system ready to accept vehicles.
+<img width="1196" height="839" alt="image" src="https://github.com/user-attachments/assets/da93752c-b761-40aa-a340-0112dc322748" />
 
-### Entry Event — Gate Open
-![Simulation - Entry Open](simulation_entry.png)
-> LCD shows `CAR PARKING 06 / ENTRY OPEN` — gate motor is active, slot count decremented.
 
 ---
 
